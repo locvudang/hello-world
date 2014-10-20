@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-github tutorial
+This is a repo for learning git & gith
